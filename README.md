@@ -1,6 +1,6 @@
 # TF implementation 'seq2seq attention'
 
-This is the seq2seq attention model implementation using tensorflow2.0.
+This is the seq2seq attention model implementation using tensorflow2.0.<br/>
 If you want a detailed explanation about code, visit my github blog.[doldol](https://doldolee.github.io/categories/)
 
 # Installation
