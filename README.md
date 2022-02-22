@@ -1,4 +1,5 @@
-# seq2seq_attention
+# TF implementation 'seq2seq attention'
 
 ## dataset
-(데이터)[https://github.com/songys/Chatbot_data] 를 이용하였습니다.
+[데이터](https://github.com/songys/Chatbot_data) 를 이용하였습니다.
+
