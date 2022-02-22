@@ -109,6 +109,7 @@ class seq2seq(tf.keras.Model):
 
       predict_token = tf.argmax(predictions[0])
 
+      ##아마 지금 inference하면 안돌아가고 아래 코드 주석풀고 위에 코드 지워야될 것임.
       # predict_token = tf.argmax(predictions, axis=2)
       # predict_token = tf.squeeze(predict_token)
 
