@@ -24,7 +24,6 @@ python train.py
 
 # Reference
 - [1] https://github.com/songys/Chatbot_data
-- [2] https://github.com/NLP-kr/tensorflow-ml-nlp-tf2
 
 
 
